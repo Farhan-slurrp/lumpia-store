@@ -4,8 +4,8 @@ import Image from "next/image";
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <div className="sticky top-0 z-50 flex flex-col w-screen">
-      <div className="z-50 flex justify-between w-screen p-5 px-12 shadow-md backdrop-blur-3xl backdrop-filter">
+    <div className="sticky top-0 z-50 flex flex-col w-full">
+      <div className="z-50 flex justify-between w-full p-5 px-12 shadow-md backdrop-blur-3xl backdrop-filter">
         <div className="flex items-center justify-center">
           <Image
             src={`${!isOpen ? "/nav-ic.png" : "/nav-close-ic.png"}`}
