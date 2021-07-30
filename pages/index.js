@@ -8,7 +8,7 @@ import Navbar from "../components/Navbar";
 
 export default function Home() {
   return (
-    <div className="w-full h-full bg-gray-300">
+    <div className="w-screen h-full bg-gray-300">
       <Navbar />
       <div
         id="banner"
