@@ -19,7 +19,7 @@ const Navbar = () => {
         </a>
       </div>
       {isOpen && (
-        <div className="absolute flex flex-col items-center w-1/4 h-screen gap-3 pt-20 shadow-lg backdrop-blur-3xl backdrop-filter -z-0">
+        <div className="absolute flex flex-col items-center w-2/3 h-screen gap-3 pt-20 shadow-lg md:w-1/4 backdrop-blur-3xl backdrop-filter -z-0">
           <a
             href="#menu"
             className="flex justify-center w-full p-2 text-xl font-karla"
