@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Lumpia Basah Ceuceu",
+    "types": ["Regular"],
+    "prices": ["10,000"],
+    "img": "/images/menus/lumpia-basah-ceuceu-10k.jpeg"
+  },
+  {
+    "name": "Nasi Gila Ceuceu",
+    "types": ["Regular"],
+    "prices": ["15,000"],
+    "img": "/images/menus/nasi-gila-ceuceu-15k.jpeg"
+  },
+  {
+    "name": "Otak-Otak Mercon",
+    "types": ["Regular"],
+    "prices": ["10,000"],
+    "img": "/images/menus/otak2-mercon-10k.jpeg"
+  },
+  {
+    "name": "Kwetiaw Goreng",
+    "types": ["Regular"],
+    "prices": ["10,000"],
+    "img": "/images/menus/kwetiaw-goreng-10k.jpeg"
+  },
+  {
+    "name": "Bakso Mercon",
+    "types": ["Regular"],
+    "prices": ["10,000"],
+    "img": "/images/menus/bakso-mercon-10k.jpeg"
+  },
+  {
+    "name": "Makaroni Seuhah",
+    "types": ["Regular"],
+    "prices": ["10,000"],
+    "img": "/images/menus/makaroni-seuhah-10k.jpeg"
+  },
+  {
+    "name": "Coffe",
+    "types": ["Ice", "Hot"],
+    "prices": ["5,000", "3,000"],
+    "img": "/images/menus/coffe-i5k-h3k.jpeg"
+  },
+  {
+    "name": "Kebab Ceuceu",
+    "types": ["Sedang", "Jumbo"],
+    "prices": ["8,000", "10,000"],
+    "img": "/images/menus/kebab-ceuce-m8k-lg10k.jpeg"
+  },
+  {
+    "name": "Mi Tektek",
+    "types": ["Goreng", "Kuah"],
+    "prices": ["10,000", "10,000"],
+    "img": "/images/menus/mi-tektek-10k.jpeg"
+  },
+  {
+    "name": "Es Teh",
+    "types": ["Regular"],
+    "prices": ["5,000"],
+    "img": "/images/menus/es-teh-5k.jpeg"
+  }
+]
